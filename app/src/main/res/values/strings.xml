@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="calculate">Рассчитать время</string>
+    <string name="label_programs">Программа:</string>
+    <string name="label_finish">Закончить до:</string>
+    <string name="error_time">Для выбранной программы не хватает времени</string>
+    <string name="label_realtime">Реальное время окончания:</string>
+</resources>
